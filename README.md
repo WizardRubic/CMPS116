@@ -6,6 +6,8 @@ SEADS Testbed repository
 
 ## Sprint 1
 <a href="https://docs.google.com/document/d/1dd2YjCrh8fnxlv7PeYxtmAkKlXbC8djATBT00NieAUQ/edit?usp=sharing">Sprint 1 Plan Google Doc</a>
+<a href="https://github.com/WizardRubic/CMPS116/blob/master/diagrams/sprint1Dataflow.png?raw=true">Sprint 1 Data Flow - Pi/Webserver/testbed</a>
+
 
 
 # Team Guidelines
