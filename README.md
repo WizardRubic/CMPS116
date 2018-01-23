@@ -7,3 +7,5 @@ SEADS Testbed repository
 ## Sprint 1
 <a href="https://docs.google.com/document/d/1dd2YjCrh8fnxlv7PeYxtmAkKlXbC8djATBT00NieAUQ/edit?usp=sharing">Sprint 1 plan</a>
 
+## Coding Standards
+<a href="https://docs.google.com/document/d/1nFcX7DiRpC3piQBzHOhRbXVsPYoFuQUSPkFXmDnqPpY/edit?usp=sharing">Coding Standards</a>
