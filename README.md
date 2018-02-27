@@ -13,6 +13,8 @@ SEADS Testbed repository
 
 <a href="https://github.com/WizardRubic/CMPS116/blob/master/diagrams/sprint1Dataflow.png?raw=true">Sprint 1 Data Flow - Pi/Webserver/testbed</a>
 
+<a href="https://docs.google.com/document/d/1Orj-bKRR6n3pdMPFAVNWkUdkS9ZXDWT-zdOhgMtA2PQ/edit">Sprint 1 report</a>
+
 ## Sprint 2
 <a href="https://docs.google.com/document/d/1bC4deX-vMDyrfN-xRzJbi9RA9I77FpXo7e-P432DDYA/edit?usp=sharing">Sprint 2 Plan Google Doc</a>
 
