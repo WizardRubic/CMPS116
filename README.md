@@ -4,6 +4,9 @@ SEADS Testbed repository
 ## Trello
 <a href="https://trello.com/b/dlKofOTx/sprint-1">Trello Board</a>
 
+## Meeting Documentation
+<a href="https://docs.google.com/document/d/1xFoJP5aYgJbSmsnqkvVc-TD5XiOnRXTj2iyfNhLen_Q/edit">Meeting documentation</a>
+
 
 ## Release Plan 
 <a href="https://docs.google.com/document/d/1i6w9Rxgt3SaiHsiv9MfvBuWrMyW5-jPiopw-Jr8SB2s">Release Plan Google Doc</a>
