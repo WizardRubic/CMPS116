@@ -3,6 +3,7 @@ SEADS Testbed repository
 
 ## Trello
 <a href="https://trello.com/b/dlKofOTx/sprint-1">Scrumboard Sprints 1/2</a>
+
 <a href="https://trello.com/b/azZN45bQ/sprint-3">Scrumboard Sprint 3</a>
 
 ## Meeting Documentation
@@ -21,10 +22,12 @@ SEADS Testbed repository
 
 ## Sprint 2
 <a href="https://docs.google.com/document/d/1bC4deX-vMDyrfN-xRzJbi9RA9I77FpXo7e-P432DDYA/edit?usp=sharing">Sprint 2 Plan Google Doc</a>
+
 <a href="https://docs.google.com/document/d/16QPN8Y0d0EvIXX64yrw5gmVCgiWOr6GBnB1Fs2yVP4o/edit?usp=sharing">Sprint 2 Report</a> 
 
 ## Sprint 3
 <a href="https://docs.google.com/document/d/1bfDgOQ52c7Q1DYZ4o9TqLERBlW6XFF_MNxtlNu976c0/edit?usp=sharing">Sprint 3 Plan Google Doc</a>
+
 <a href="https://docs.google.com/document/d/12gPj8fdSoWd8LPVaVTM3SErYhfwK4lTI8avYqY5lTAY/edit#">Sprint 3 report</a>
 
 
