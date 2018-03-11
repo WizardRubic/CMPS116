@@ -43,6 +43,7 @@ SEADS Testbed repository
 
 
 ## User Manual/Installation
+<a href="https://play.google.com/store/apps/details?id=com.seads.seadsv2&hl=en">Android App</a>
 
 ## Data Flow Diagram
 
