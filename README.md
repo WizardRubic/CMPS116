@@ -51,3 +51,4 @@ SEADS Testbed repository
 # Testing / Unit tests
 
 # List of known bugs and unimplemented features
+<a href="https://docs.google.com/document/d/1bzuasC_Rcvj6XEjXITprMkZjTmUDB21LuUYfesLaXJQ/">Bugs/unimplemented features</a>
