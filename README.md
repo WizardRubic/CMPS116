@@ -46,6 +46,7 @@ SEADS Testbed repository
 <a href="https://play.google.com/store/apps/details?id=com.seads.seadsv2&hl=en">Android App</a>
 
 ## Data Flow Diagram
+![alt text](https://github.com/WizardRubic/CMPS116/blob/master/diagrams/sead2.png "SEADS Diagram")
 
 ## System and Unit Tests Report
 
