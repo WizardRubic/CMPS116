@@ -5,7 +5,7 @@ SEADS Testbed repository
 <a href="https://github.com/TheRickyRoss2/android">Android SEADS fork</a>
 
 ## Web
-<a href="https://github.com/seadsystem/website/tree/dockerizing">Android SEADS fork</a>
+<a href="https://github.com/seadsystem/website/tree/dockerizing">WEB SEADS branch</a>
 
 ## iOS
 private
