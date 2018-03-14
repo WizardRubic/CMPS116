@@ -1,6 +1,15 @@
 # CMPS116
 SEADS Testbed repository
 
+## Android 
+<a href="https://github.com/TheRickyRoss2/android">Android SEADS fork</a>
+
+## Web
+<a href="https://github.com/seadsystem/website/tree/dockerizing">Android SEADS fork</a>
+
+## iOS
+private
+
 ## Trello
 <a href="https://trello.com/b/dlKofOTx/sprint-1">Scrumboard Sprints 1/2</a>
 
